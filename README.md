@@ -1,7 +1,7 @@
 # TAB-D3D11
 hack for totally accurate battlegrounds
 
-Requires: anticheat bypass 
+Requires: anticheat bypass,  
 Detection status: unknown, use at our own risk
 
 requires:
