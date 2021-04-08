@@ -2,7 +2,7 @@
 hack for totally accurate battlegrounds
 
 Requires: anticheat bypass,  
-Detection status: unknown, use at our own risk
+Detection status: unknown, use at your own risk
 
 requires:
 https://github.com/DrNseven/D3D11-Worldtoscreen-Finder
